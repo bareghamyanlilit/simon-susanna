@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Սիմոնի և Սուսաննայի հարսանեկան հրավիրատոմս",
     description: "Հարսանեկան հրավիրատոմս",
-    url: "https://site-up-l012.vercel.app",
+    url: "https://simon-susanna.netlify.app",
     siteName: "Սիմոն և Սուսաննա",
     images: [
       {
-        url: "/img3.jpg",
+        url: "https://simon-susanna.netlify.app/img3.jpg",
         width: 1200,
         height: 630,
       },
